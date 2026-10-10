@@ -1,0 +1,33 @@
+
+.container.data-v-7a2414ed {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+}
+.question.data-v-7a2414ed {
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+.options button.data-v-7a2414ed {
+	margin-bottom: 10px;
+}
+.options button.active.data-v-7a2414ed {
+	background-color: #ff0;
+	/* 修改为你想要的高亮颜色 */
+}
+.next-button.data-v-7a2414ed {
+	margin-top: 20px;
+}
+.back-button.data-v-7a2414ed {
+	margin-top: 20px;
+}
+._ul.data-v-7a2414ed {
+  list-style: none;
+  padding: 0;
+}
+._li.data-v-7a2414ed {
+  margin-bottom: 10px;
+}
+

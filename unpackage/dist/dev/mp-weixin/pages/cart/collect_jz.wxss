@@ -1,0 +1,49 @@
+
+.container.data-v-5eb9496b {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+}
+.question.data-v-5eb9496b {
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+.options button.data-v-5eb9496b {
+    position: relative;
+    padding-left: 20px; /* 调整按钮左边距以容纳圆圈 */
+}
+.option-letter.data-v-5eb9496b {
+    position: absolute;
+    left: 5px; /* 调整圆圈的位置 */
+    top: 50%; /* 将圆圈置于按钮垂直居中 */
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%);
+    width: 20px;
+    height: 20px;
+    border: 2px solid black; /* 设置圆圈轮廓颜色为黑色 */
+    border-radius: 50%; /* 将方形边框设置为圆形 */
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+}
+.options button.active.data-v-5eb9496b {
+	background-color: #ff0;
+	/* 修改为你想要的高亮颜色 */
+}
+.next-button.data-v-5eb9496b {
+	margin-top: 20px;
+}
+.back-button.data-v-5eb9496b {
+	margin-top: 20px;
+}
+._ul.data-v-5eb9496b {
+	list-style: none;
+	padding: 0;
+}
+._li.data-v-5eb9496b {
+	margin-bottom: 10px;
+}
+

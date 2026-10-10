@@ -1,0 +1,119 @@
+
+.footer-container.data-v-0b7381ca {
+  display: flex;
+  flex-direction: row; /* 设置子元素水平排列 */
+  justify-content: center; /* 水平居中对齐 */
+  align-items: center; /* 垂直居中对齐 */
+  background: #fff; /* 背景颜色 */
+  border-top: 1px solid #eee; /* 上边框 */
+  padding: 10px; /* 内边距 */
+}
+.header-container.data-v-0b7381ca {
+  display: flex;
+  align-items: center;
+  background: #fff;
+  border-bottom: 1rpx solid #eee;
+  border-top: 1rpx solid #eee;
+  padding: 10rpx
+}
+.header-container .left-container.data-v-0b7381ca {
+  display: flex;
+  align-items: center;
+  margin: 10rpx
+}
+.header-container .left-container .icon.data-v-0b7381ca {
+  margin-right: 10rpx;
+  width: 40rpx;
+  height: 40rpx
+}
+.header-container .center-container.data-v-0b7381ca {
+  flex: 1;
+  text-align: center;
+  font-size:13px
+}
+.header-container .right-container.data-v-0b7381ca {
+  margin: 10rpx
+}
+.exam-container.data-v-0b7381ca {
+  background: #fff;
+  margin: 30rpx;
+  border-radius: 20rpx;
+  padding: 20rpx
+}
+.exam-container .title-container.data-v-0b7381ca {
+  padding: 20rpx
+}
+.exam-container .title-container .type.data-v-0b7381ca {
+  background: #eee;
+  padding: 10rpx;
+  border-radius: 10rpx
+}
+.exam-container .title-container .title.data-v-0b7381ca {
+  margin-left: 20rpx
+}
+.exam-container .answer-item.data-v-0b7381ca {
+  margin: 20rpx
+}
+.active.data-v-0b7381ca{
+  background-color: #ff0;
+}
+.exam-container .answer-item .text.data-v-0b7381ca {
+  margin-left: 20rpx
+}
+.exam-container .tiankong-container.data-v-0b7381ca {
+  display: flex;
+  align-items: center;
+  margin: 20rpx
+}
+.exam-container .tiankong-container .answer.data-v-0b7381ca {
+  border: 1rpx solid #eee;
+  height: 60rpx;
+  margin: 0 20rpx
+}
+.exam-container .btn-submit.data-v-0b7381ca {
+  height: 60rpx;
+  font-size: 30rpx;
+  line-height: 60rpx;
+  margin-top: 60rpx;
+  border-radius: 50rpx
+}
+.exam-container .btn-next.data-v-0b7381ca {
+  height: 60rpx;
+  font-size: 30rpx;
+  line-height: 60rpx;
+  margin-top: 60rpx;
+  border-radius: 50rpx
+}
+.tip-container.data-v-0b7381ca {
+  margin-top: 50rpx;
+  border-top: 1rpx solid #eee;
+  padding: 20rpx
+}
+.tip-container .par.data-v-0b7381ca {
+  margin-bottom: 20rpx
+}
+.discussion-area.data-v-0b7381ca {  
+	position: relative; /* 确保定位是相对于此容器 */ 
+	background-color: white;
+	/* 其他样式 */
+}
+.discussion-input-group.data-v-0b7381ca {  
+    position: -webkit-sticky;  
+    position: sticky; /* 使用 sticky 定位 */  
+    bottom: 0; /* 粘贴在底部 */  
+	background-color: white;
+	border: 1px solid black;
+    /* 其他样式 */
+}
+.textarea-default.data-v-0b7381ca{
+	height: 40px;
+	transition: height 0.5s ease;
+}
+.textarea-focused.data-v-0b7381ca{
+	height: 150px ;
+	transition: height 0.5s ease;
+}
+.discussion-input-group button.data-v-0b7381ca{
+	height: 40px;
+}
+

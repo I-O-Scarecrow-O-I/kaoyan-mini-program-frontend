@@ -23,12 +23,176 @@
 			}
 		},
 		{
+			"path": "pages/cart/collect",
+			"style": {
+				"navigationBarTitleText": "408考研",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/cart/collect_jz",
+			"style": {
+				"navigationBarTitleText": "408考研",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/cart/collect_os",
+			"style": {
+				"navigationBarTitleText": "408考研",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/cart/collect_net",
+			"style": {
+				"navigationBarTitleText": "408考研",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
 			"path": "pages/My/My",
 			"style": {
 				"navigationBarTitleText": "408考研",
 				"enablePullDownRefresh": false
 			}
-		}
+		},
+		{
+			"path" : "pages/exercise/answer",
+			"style" : 
+			{
+				"navigationBarTitleText" : "数据结构答题",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/exercise/answer_jz",
+			"style" : 
+			{
+				"navigationBarTitleText" : "计算机组成原理答题",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/exercise/answer_os",
+			"style" : 
+			{
+				"navigationBarTitleText" : "操作系统答题",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/exercise/answer_net",
+			"style" : 
+			{
+				"navigationBarTitleText" : "计算机网络答题",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/misses/misses",
+			"style" : 
+			{
+				"navigationBarTitleText" : "错题界面",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/misses/misses_ds",
+			"style" : 
+			{
+				"navigationBarTitleText" : "数据结构错题",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/misses/misses_jz",
+			"style" : 
+			{
+				"navigationBarTitleText" : "计算机组成原理错题",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/misses/misses_os",
+			"style" : 
+			{
+				"navigationBarTitleText" : "操作系统错题",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/misses/misses_net",
+			"style" : 
+			{
+				"navigationBarTitleText" : "计算机网络错题",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/examExercise/examExercise",
+			"style" : 
+			{
+				"navigationBarTitleText" : "模拟考试-数据结构",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/examExercise/examExercise_jz",
+			"style" : 
+			{
+				"navigationBarTitleText" : "模拟考试-计算机组成原理",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/examExercise/examExercise_net",
+			"style" : 
+			{
+				"navigationBarTitleText" : "模拟考试-计算机网络",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/examExercise/examExercise_os",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/testExamList/testExamList",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/My/fastLogin",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/webView/webView",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+					"path" : "pages/register/register",
+					"style" : 
+					{
+						"navigationBarTitleText" : "",
+						"enablePullDownRefresh" : false
+					}
+				}
 	],
 	"globalStyle": {
 		"navigationBarTextStyle": "white",
