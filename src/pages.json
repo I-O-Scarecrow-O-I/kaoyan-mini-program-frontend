@@ -1,0 +1,242 @@
+{
+	"pages": [
+		{
+			"path": "pages/home/home",
+			"style": {
+				"navigationBarTitleText": "408考研",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path" : "pages/exercise/exercise",
+			"style" : 
+			{
+				"navigationBarTitleText" : "408考研",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path": "pages/cart/cart",
+			"style": {
+				"navigationBarTitleText": "408考研",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/cart/collect",
+			"style": {
+				"navigationBarTitleText": "408考研",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/cart/collect_jz",
+			"style": {
+				"navigationBarTitleText": "408考研",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/cart/collect_os",
+			"style": {
+				"navigationBarTitleText": "408考研",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/cart/collect_net",
+			"style": {
+				"navigationBarTitleText": "408考研",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/My/My",
+			"style": {
+				"navigationBarTitleText": "408考研",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path" : "pages/exercise/answer",
+			"style" : 
+			{
+				"navigationBarTitleText" : "数据结构答题",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/exercise/answer_jz",
+			"style" : 
+			{
+				"navigationBarTitleText" : "计算机组成原理答题",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/exercise/answer_os",
+			"style" : 
+			{
+				"navigationBarTitleText" : "操作系统答题",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/exercise/answer_net",
+			"style" : 
+			{
+				"navigationBarTitleText" : "计算机网络答题",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/misses/misses",
+			"style" : 
+			{
+				"navigationBarTitleText" : "错题界面",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/misses/misses_ds",
+			"style" : 
+			{
+				"navigationBarTitleText" : "数据结构错题",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/misses/misses_jz",
+			"style" : 
+			{
+				"navigationBarTitleText" : "计算机组成原理错题",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/misses/misses_os",
+			"style" : 
+			{
+				"navigationBarTitleText" : "操作系统错题",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/misses/misses_net",
+			"style" : 
+			{
+				"navigationBarTitleText" : "计算机网络错题",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/examExercise/examExercise",
+			"style" : 
+			{
+				"navigationBarTitleText" : "模拟考试-数据结构",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/examExercise/examExercise_jz",
+			"style" : 
+			{
+				"navigationBarTitleText" : "模拟考试-计算机组成原理",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/examExercise/examExercise_net",
+			"style" : 
+			{
+				"navigationBarTitleText" : "模拟考试-计算机网络",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/examExercise/examExercise_os",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/testExamList/testExamList",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/My/fastLogin",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/webView/webView",
+			"style" : 
+			{
+				"navigationBarTitleText" : "",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path": "pages/forget/forget",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+					"path" : "pages/register/register",
+					"style" : 
+					{
+						"navigationBarTitleText" : "",
+						"enablePullDownRefresh" : false
+					}
+				}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "408考研",
+		"navigationBarBackgroundColor": "#C00000",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	},
+	"tabBar": {
+		"selectedColor": "#C00000",
+		"list": [
+			{
+				"pagePath": "pages/home/home",
+				"text": "首页",
+				"iconPath": "static/tab_icons/home.png",
+				"selectedIconPath": "static/tab_icons/home-active.png"
+			},
+			{
+				"pagePath": "pages/exercise/exercise",
+				"text": "刷题",
+				"iconPath": "static/tab_icons/cate.png",
+				"selectedIconPath": "static/tab_icons/cate-active.png"
+			},
+			{
+				"pagePath": "pages/cart/cart",
+				"text": "收藏夹",
+				"iconPath": "static/tab_icons/cart.png",
+				"selectedIconPath": "static/tab_icons/cart-active.png"
+			},
+			{
+				"pagePath": "pages/My/My",
+				"text": "我的",
+				"iconPath": "static/tab_icons/my.png",
+				"selectedIconPath": "static/tab_icons/my-active.png"
+			}
+		]
+	}
+}

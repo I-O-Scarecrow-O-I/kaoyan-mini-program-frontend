@@ -1,1 +1,0 @@
-<view><button id="loginHanle" data-event-opts="{{[['tap',[['goLogin',['$event']]]]]}}" bindtap="__e">微信一键登录</button></view>
